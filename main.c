@@ -1,6 +1,5 @@
 
 //  main.c
-//  dailynote_hw3
 
 //  Created by Jesus Vasquez-Cipriano on 9/26/20.
 //  Copyright © 2020 Jesus Vasquez-Cipriano. All rights reserved.
